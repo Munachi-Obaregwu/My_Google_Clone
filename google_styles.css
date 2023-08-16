@@ -1,0 +1,171 @@
+body {
+    overflow: hidden;
+}
+
+.signinbutton {
+    background-color: royalblue;
+    border-radius: 0.2rem;
+    border: none;
+    height: 2.3rem;
+    width: 6rem;
+}
+
+img {
+    height: 1.3rem;
+}
+
+.google_logo {
+    height: 6rem;
+}
+
+.google_text {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.googleBoys {
+    text-align: center;
+    font-size: 6rem;
+}
+
+#blue {
+    color: rgb(66, 133, 244);
+}
+
+#red {
+    color: rgb(219, 68, 55);
+}
+
+#red2 {
+    color: rgb(219, 68, 55);
+    font-family: monospace;
+}
+
+#yellow {
+    color: rgb(244, 180, 0);
+}
+
+#green {
+    color: rgb(15, 157, 88);
+}
+
+.whatever {
+    text-align: center;
+}
+
+.searchbar {
+    align-items: center;
+    width: auto;
+    padding-left: 22rem;
+}
+
+.gboz {
+    border-radius: 2rem;
+    border: 1px solid lightgray;
+    width: 38rem;
+    height: 2.95rem;
+}
+
+.gboz img {
+    padding-right: 1rem;
+}
+
+.searchicon {
+    text-align: center;
+    padding-top: 4px;
+    padding-left: 10px;
+}
+
+.searcharea {
+    border: none;
+    margin-left: 1rem;
+    width: 29rem;
+    height: 2.6rem;
+    outline: none;
+}
+
+.google_lens {
+    padding-top: 0px;
+    height: 1.5rem;
+}
+
+.buttons {
+    text-align: center;
+    padding-top: 1.5rem;
+}
+
+.buttons button {
+    margin-right: 7px;
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    height: 36px;
+}
+
+.languages {
+    display: flex;
+    text-align: center;
+    font-size: 14px;
+    padding-left: 31rem;
+    padding-top: 5px;
+}
+
+.languages a {
+    margin-right: 5px;
+    display: inline;
+    color: #1a0dab;
+}
+
+.languages p {
+    margin-right: 5px;
+}
+
+.nigeria {
+    padding: 10px 30px;
+    border-bottom: 1px solid #dadce0;
+    font-size: 15px;
+    color: #70757a;
+    background-color: #edececb8;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    height: 3rem;
+    width: 86.2rem;
+    margin-top: 8rem;
+}
+
+.remainingstuff {
+    display: flex;    
+    background-color: #edececb8;
+    height: 3rem;
+    color: #70757a;
+    padding: 10px 30px;
+    width: 86.2rem;
+}
+
+.remainingstuff a {
+    margin-right: 1.6rem;
+    display: inline;
+    color: #70757a;
+}
+
+.remainingstuff a:hover {
+    text-decoration: underline #70757a;
+    color: #70757a;
+}
+
+.climatechange {
+    justify-content: center;
+    font-size: 15px;
+    margin-left: 4rem;
+}
+
+.otherthings {
+    margin-left: 14.9rem;
+}
